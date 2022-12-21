@@ -18,6 +18,6 @@ Expected Result:
 
 Actual Result:
 
-Screenshots:
+Screenshots: (via imgur link)
 
 Extra Notes:
