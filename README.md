@@ -1,6 +1,8 @@
 # Bug Reporting
 Report Bugs for ner07ca's Mods
 
+Report in the [issues tab](https://github.com/ner07ca/bug-reports/issues).
+
 
 # Format
 
